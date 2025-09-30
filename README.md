@@ -11,8 +11,7 @@ O foco está em treinar **lógica de programação** e **resolução de problema
 - Variáveis e Tipos de Dados  
 - Operadores aritméticos e lógicos  
 - Estruturas de Decisão (`if`, `else`, `switch`)  
-- Estruturas de Repetição (`for`, `while`, `do while`)  
-- Funções  
+- Estruturas de Repetição (`for`, `while`, `do while`)   
 - Vetores  
 - Entrada e Saída de Dados  
 
@@ -21,7 +20,7 @@ O foco está em treinar **lógica de programação** e **resolução de problema
 ## ⚙️ Tecnologias Utilizadas
 - **C++**  
 - **Dev-C++**  
-- **Git & GitHub**
+- **GitHub**
 
 ---
 
